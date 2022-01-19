@@ -1,1 +1,3 @@
+# Face a conflict
 this is the first file
+# edit the file
